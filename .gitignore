@@ -1,2 +1,8 @@
 #ignore .env files
 .env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+#database
+db.json
